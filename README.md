@@ -20,6 +20,5 @@ Feel free to explore the projects, delve into the codebase, and examine the resu
 
 Happy coding and analyzing!
 
----
-
-This introduction provides a quick overview of your repository, emphasizing its purpose, content, and inviting contributors or users to explore the projects. Adjust the project names and descriptions based on your actual projects to make it more personalized.
+Regards,
+[Anjali Singh]
